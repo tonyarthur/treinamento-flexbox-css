@@ -1,19 +1,13 @@
-html, body , #app {
-    height: 100%;
+* {
     margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
-#app {
-    display: flex;
-    flex-direction: column;
+body {
+    background:  #e6ecf0;
+    font-family:  'Helvetica Neue', Helvetica, Arial, sans-serif;
+    text-rendering: optimizeLegibility !important;
 
-    align-items: center;
-    justify-content: space-between;
-}
-
-.box {
-    width: 60px;
-    height: 60px;
-    background: red;
-    margin: 5px;
+    -webkit-font-smoothing: antialiased !important;
 }
