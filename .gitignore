@@ -1,0 +1,3 @@
+
+# Ignora a pasta de histórico, para aqueles que usam o plugin do history no VSCode.
+.history
