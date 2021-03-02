@@ -1,2 +1,2 @@
 # treinamento-flexbox-css
-Este e um treinamento oferecido pela rocketseat
+Este é um treinamento oferecido pela rocketseat
